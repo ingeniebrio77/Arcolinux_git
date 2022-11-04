@@ -3,9 +3,10 @@ Date:   03-11-2022
 Author: Renato Palavecino
 Keywords:   Git, Github, Linux
 
-![Arclinux] (/home/renato/Projekt1/Bilder/Archlinux.jpg)
 
 # Git Repository loka erstellen
+
+![Alt-Text] (/home/renato/Projekt1/Bilder/Archlinux.jpg)
 
 ## Projekt Umgebung vorbereiten
 
