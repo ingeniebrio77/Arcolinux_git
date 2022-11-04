@@ -6,7 +6,7 @@ Keywords:   Git, Github, Linux
 
 # Git Repository loka erstellen
 
-![Alt-Text](/home/renato/Bilder/Archscreenshot.png)
+![Alt-Text](Bilder/Archlinux.jpg)
 
 ## Projekt Umgebung vorbereiten
 
